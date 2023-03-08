@@ -1,0 +1,8 @@
+ Http protokolü bu web sayfalarının (genelde html formatta olurlar) client(istemci) ve server(sunucu) arasındaki bu alışverişten sorumludur.
+ Client - Server
+ Http Durum Kodları
+ 200: OK (İstek başarılı)
+401: Unauthorized (Yetki Hatası)
+403: Forbidden (Hatalı Erişim İsteği)
+404: Not Found (Kaynak bulunamadı)
+500: Internal Server Error (Sunucu içerisinde hata oluştu)
